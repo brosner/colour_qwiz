@@ -4,4 +4,4 @@
     file: "colours.csv"
     front: "colour"
     back: "label"
-    template: "qwiz/play/colour.html"
+    template: "colour"
